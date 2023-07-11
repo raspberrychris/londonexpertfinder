@@ -13,4 +13,3 @@ summaryLength = 0
   home = ["HTML", "RSS", "JSON"]
 
 baseURL = "https://londonexpertfinder.com"
-theme = "congo"
